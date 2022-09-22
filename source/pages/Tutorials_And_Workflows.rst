@@ -1,8 +1,6 @@
 
-Tutorials & Workflows (Coming Soon)
-===================================
-
-
+Tutorials & Workflows
+=====================
 
 While the addon has a lot of options and additional features that you can tweak to achieve different results, there are two basic workflows for creating animated game rigs that you can export to any game engine.
 
